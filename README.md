@@ -17,16 +17,16 @@ Monitoring & Feedback: Ensures performance, reliability, and continuous improvem
 ##DevOps Lifecycle Stages
 
 Planning:
-Define project scope, gather requirements, and outline deliverables.
+This stage involves gathering business requirements, defining goals, identifying risks, and creating a roadmap. Stakeholders from development, operations, and business teams collaborate to ensure alignment on expectations, timelines, and deliverables.
 
 Development:
-Write and manage code collaboratively using version control systems like Git.
+Code is written and reviewed collaboratively using tools like Git. Developers follow coding standards, write unit tests, and ensure code modularity and reusability. Agile practices such as sprints and standups often support this stage to enhance productivity and adaptability.
 
 Building:
 Convert source code into executable packages; automated builds validate integration.
 
 Testing:
-Run automated/manual tests to detect bugs early and ensure quality.
+Automated and manual testing is performed to validate functionality, performance, and security. This includes unit tests, integration tests, regression tests, and user acceptance testing (UAT). Testing early and often reduces the likelihood of bugs reaching production.
 
 Release:
 Prepare the tested software for deployment with proper versioning and documentation.
@@ -35,10 +35,10 @@ Deployment:
 Deliver code to production or staging environments using automated pipelines.
 
 Operations:
-Manage infrastructure, scalability, and performance post-deployment.
+Post-deployment, the operations team manages infrastructure, configuration, and resource provisioning. They ensure system reliability, scalability, and uptime by applying infrastructure-as-code (IaC), monitoring, and logging practices..
 
 Monitoring:
-Track application health, user activity, and system metrics for proactive issue resolution.
+Continuous monitoring tools track application performance, user behavior, and system health. Alerts and analytics help teams identify and resolve issues proactively, enabling continuous feedback and improvement throughout the lifecycle.
 
 
 
